@@ -1,2 +1,2 @@
 # study
-Some things I'm learning.
+Some things that I am learning.
